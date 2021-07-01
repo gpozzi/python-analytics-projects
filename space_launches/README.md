@@ -18,31 +18,53 @@ The launch classes are defined as follows based on their payload in Kilograms:
 
 ## The data
 ### datasets/SO-space.csv - Space launch data for private single owner companies
+
 > **Source**: SpaceFund
+
 > **Company ID**: The company ID.
+
 > **QA**: The quality assurance rating as given by an appointed third party agency.
+
 > **Payload (kg)**: The weight in kilograms for the largest spacecraft launched by the company.
+
 > **Launch Cost ($M)**: The launch cost for the largest spacecraft, in millions of USD.
+
 > **Price ($/Kg)**: The price paid to hire the company services by a new client, in USD per kilogram.
+
 > **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
 
 ### datasets/JV-space.csv - Space launch data for private joint-venture companies
+
 > **Source**: SpaceFund
+
 > **Company ID**: The company ID.
+
 > **QA**: The quality assurance rating as given by an appointed third party agency.
+
 > **Payload (tons)**: The weight in tons for the largest spacecraft launched by the company.
+
 > **Launch Cost**: The launch cost for the largest spacecraft, in USD.
+
 > **Price ($/ton)**: The price paid to hire the company services by a new client, in USD per ton.
+
 > **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
+
 ### datasets/company_info.csv - Company name, launch technology, and geographical data
+
 > **Source**: SpaceFund
+
 > **ID**: The company ID.
+
 > **Company**: The company name.
+
 > **Tech Type**: The spacecraft type. Rocket, Spaceplace, Plane, Balloon, or Other.
+
 > **Country**: The country location for the company's launchpad.
+
 > **HQ Location**: The main office location fot the company.
 
 ## Goal
+
 Find the **country** with the best average price to launch rockets into **low earth orbit (LEO)** for each launch class. Keep in mind the constraints laid out by the European Space Agency. Your analysis will allow the funding department to approach companies in the countries that offer the best value for each rocket class.
 
 Save your answer as a single DataFrame and name it `launch_cost`. It should contain the country with the lowest average price (in $/Kg) for each rocket class.
