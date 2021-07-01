@@ -1,4 +1,9 @@
 # Rocket launches, a best value anaylsis 🚀
+
+## Tl;dr
+- **Data cleaning and wrangling** project done for Datacamp Python Certification (unguided)
+- **Goal**: Detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit
+
 ## Summary
 Launching payloads, such as satellites or space station modules, into space is expensive and requires careful planning. Finding and investing in regions that have a developed space industry can reduce costs and improve the pace of space travel and exploration.
 
