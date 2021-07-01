@@ -1,4 +1,5 @@
 # Rocket launches, a best value anaylsis 🚀
+## Summary
 Launching payloads, such as satellites or space station modules, into space is expensive and requires careful planning. Finding and investing in regions that have a developed space industry can reduce costs and improve the pace of space travel and exploration.
 
 **The European Space Agency (ESA)** has decided to invest in countries that are home to the most efficient companies at sending payloads into space. In particular, they want to find countries with the **lowest average price per kilo** (across all companies for each country) that can launch **rockets** into **Low Earth Orbit (LEO)** according to each of their three classes (**light, medium, and heavy rockets**).
@@ -19,8 +20,6 @@ The launch classes are defined as follows based on their payload in Kilograms:
 ## The data
 ### datasets/SO-space.csv - Space launch data for private single owner companies
 
-> - **Source**: SpaceFund
-
 > - **Company ID**: The company ID.
 
 > - **QA**: The quality assurance rating as given by an appointed third party agency.
@@ -35,8 +34,6 @@ The launch classes are defined as follows based on their payload in Kilograms:
 
 ### datasets/JV-space.csv - Space launch data for private joint-venture companies
 
-> - **Source**: SpaceFund
-
 > - **Company ID**: The company ID.
 
 > - **QA**: The quality assurance rating as given by an appointed third party agency.
@@ -50,8 +47,6 @@ The launch classes are defined as follows based on their payload in Kilograms:
 > - **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
 
 ### datasets/company_info.csv - Company name, launch technology, and geographical data
-
-> - **Source**: SpaceFund
 
 > - **ID**: The company ID.
 
