@@ -4,7 +4,7 @@
 - **Data cleaning and wrangling** project done for Datacamp Python Certification (unguided)
 - **Goal**: Detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit
 
-## Summary
+## Project description
 Launching payloads, such as satellites or space station modules, into space is expensive and requires careful planning. Finding and investing in regions that have a developed space industry can reduce costs and improve the pace of space travel and exploration.
 
 **The European Space Agency (ESA)** has decided to invest in countries that are home to the most efficient companies at sending payloads into space. In particular, they want to find countries with the **lowest average price per kilo** (across all companies for each country) that can launch **rockets** into **Low Earth Orbit (LEO)** according to each of their three classes (**light, medium, and heavy rockets**).
