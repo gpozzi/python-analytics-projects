@@ -3,65 +3,65 @@ Launching payloads, such as satellites or space station modules, into space is e
 
 **The European Space Agency (ESA)** has decided to invest in countries that are home to the most efficient companies at sending payloads into space. In particular, they want to find countries with the **lowest average price per kilo** (across all companies for each country) that can launch **rockets** into **Low Earth Orbit (LEO)** according to each of their three classes (**light, medium, and heavy rockets**).
 
-However, there are some additional contraints that the ESA has put in place for the selection process:
+❗ However, there are some additional contraints that the ESA has put in place for the selection process: 
 
 > Companies included in each country's average price must have a **Quality Assurance (QA) rating higher than 2**. QA is a rating based on previous launches. This constraint establishes a minimum level of performance for the selection process.
 
 > Countries with a launch cost **under $10,000,000 in total** for all rocket launches across the three classes should be excluded. This constraint ensures that any selected countries will be able to manage the large volume of launches required.
 
-To help you in your task, the ESA has made available to you three datasets: single-owner companies (datasets/SO-space.csv) and joint-ventures (datasets/JV-space.csv), both of which contain launch data on companies that offer space services. These are paired with the company info dataset (datasets/company_info.csv) which contains the company names, launch technology (rockets, balloons, planes, other), and their location details.
+To help you in your task, the ESA has made available to you three datasets: **single-owner companies** (datasets/SO-space.csv) and **joint-ventures** (datasets/JV-space.csv), both of which contain launch data on companies that offer space services. These are paired with the **company info dataset** (datasets/company_info.csv) which contains the company names, launch technology (rockets, balloons, planes, other), and their location details.
 
 The launch classes are defined as follows based on their payload in Kilograms:
-- Light <= 1,000
-- 1,000 < Medium <= 10,000
-- 10,000 < Heavy
+- **Light** <= 1,000
+- 1,000 < **Medium** <= 10,000
+- 10,000 < **Heavy**
 
 ## The data
 ### datasets/SO-space.csv - Space launch data for private single owner companies
 
-> **Source**: SpaceFund
+> - **Source**: SpaceFund
 
-> **Company ID**: The company ID.
+> - **Company ID**: The company ID.
 
-> **QA**: The quality assurance rating as given by an appointed third party agency.
+> - **QA**: The quality assurance rating as given by an appointed third party agency.
 
-> **Payload (kg)**: The weight in kilograms for the largest spacecraft launched by the company.
+> - **Payload (kg)**: The weight in kilograms for the largest spacecraft launched by the company.
 
-> **Launch Cost ($M)**: The launch cost for the largest spacecraft, in millions of USD.
+> - **Launch Cost ($M)**: The launch cost for the largest spacecraft, in millions of USD.
 
-> **Price ($/Kg)**: The price paid to hire the company services by a new client, in USD per kilogram.
+> - **Price ($/Kg)**: The price paid to hire the company services by a new client, in USD per kilogram.
 
-> **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
+> - **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
 
 ### datasets/JV-space.csv - Space launch data for private joint-venture companies
 
-> **Source**: SpaceFund
+> - **Source**: SpaceFund
 
-> **Company ID**: The company ID.
+> - **Company ID**: The company ID.
 
-> **QA**: The quality assurance rating as given by an appointed third party agency.
+> - **QA**: The quality assurance rating as given by an appointed third party agency.
 
-> **Payload (tons)**: The weight in tons for the largest spacecraft launched by the company.
+> - **Payload (tons)**: The weight in tons for the largest spacecraft launched by the company.
 
-> **Launch Cost**: The launch cost for the largest spacecraft, in USD.
+> - **Launch Cost**: The launch cost for the largest spacecraft, in USD.
 
-> **Price ($/ton)**: The price paid to hire the company services by a new client, in USD per ton.
+> - **Price ($/ton)**: The price paid to hire the company services by a new client, in USD per ton.
 
-> **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
+> - **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
 
 ### datasets/company_info.csv - Company name, launch technology, and geographical data
 
-> **Source**: SpaceFund
+> - **Source**: SpaceFund
 
-> **ID**: The company ID.
+> - **ID**: The company ID.
 
-> **Company**: The company name.
+> - **Company**: The company name.
 
-> **Tech Type**: The spacecraft type. Rocket, Spaceplace, Plane, Balloon, or Other.
+> - **Tech Type**: The spacecraft type. Rocket, Spaceplace, Plane, Balloon, or Other.
 
-> **Country**: The country location for the company's launchpad.
+> - **Country**: The country location for the company's launchpad.
 
-> **HQ Location**: The main office location fot the company.
+> - **HQ Location**: The main office location fot the company.
 
 ## Goal
 
