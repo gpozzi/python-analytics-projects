@@ -67,7 +67,7 @@ The launch classes are defined as follows based on their payload in Kilograms:
 
 Find the **country** with the best average price to launch rockets into **low earth orbit (LEO)** for each launch class. Keep in mind the constraints laid out by the European Space Agency. Your analysis will allow the funding department to approach companies in the countries that offer the best value for each rocket class.
 
-Save your answer as a single DataFrame and name it `launch_cost`. It should contain the country with the lowest average price (in $/Kg) for each rocket class.
+Save your answer as a single DataFrame and name it `launch_cost`. It should contain the **country with the lowest average price (in $/Kg) for each rocket class**.
 
 Your resulting DataFrame should resemble the following, including identical column names:
 
