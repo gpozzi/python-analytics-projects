@@ -72,7 +72,9 @@ Save your answer as a single DataFrame and name it `launch_cost`. It should cont
 Your resulting DataFrame should resemble the following, including identical column names:
 
 Launch Class	| Average Price |	Country
-Light |	xxxx |	xxxx
-Medium |	xxxx |	xxxx
-Heavy |	xxxx |	xxxx
 
+Light |	xxxx |	xxxx
+
+Medium |	xxxx |	xxxx
+
+Heavy |	xxxx |	xxxx
