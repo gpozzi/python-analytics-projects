@@ -49,7 +49,7 @@ The launch classes are defined as follows based on their payload in Kilograms:
 
 > - **Orbit Altitude**: The earth orbit achieved by the company's spacecraft.
 
-### ````diff + datasets/company_info.csv```` - Company name, launch technology, and geographical data
+### datasets/company_info.csv - Company name, launch technology, and geographical data
 
 > - **Source**: SpaceFund
 
