@@ -1,4 +1,4 @@
-# Rocket launches, a best value anaylsis 🚀
+# Rocket launches, a best value analysis 🚀
 
 ## Tl;dr
 - **Data cleaning and wrangling** project done for Datacamp Python Certification (unguided)
