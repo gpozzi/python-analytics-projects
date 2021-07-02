@@ -3,7 +3,7 @@
 ## Tl;dr
 - **Data cleaning** and **wrangling** project done for Datacamp Python Certification (unguided)
 - **Goal**: find the amount of energy saved per year from recycling efforts done by the Singapore's government.
-- **Libraries used**: `Pandas`, `Numpy`
+- **Libraries used**: `Pandas`
 
 ## Project description
 
