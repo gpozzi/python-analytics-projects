@@ -25,7 +25,7 @@ The launch classes are defined as follows based on their payload in Kilograms:
 - 1,000 < **Medium** <= 10,000
 - 10,000 < **Heavy**
 
-## Dataset description
+## Data description
 
 <img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
 
