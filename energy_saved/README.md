@@ -5,6 +5,8 @@
 - **Goal**: find the amount of energy saved per year from recycling efforts done by the Singapore's government.
 - **Libraries used**: `Pandas`
 
+<img src="https://image.freepik.com/vector-gratis/especialista-planta-reciclaje-plastico-materia-prima-papelera-reciclaje-mecanico-reciclaje-plasticos-concepto-reutilizacion-materiales-desecho-ilustracion-aislada-bluevector-coral-rosado_335657-1397.jpg" width=300>
+
 ## Project description
 
 Singapore has an ambitious goal of becoming a zero-waste nation. The amount of waste disposed of in Singapore has increased seven-fold over the last 40 years. At this rate, Semakau Landfill, Singapore’s only landfill, will run out of space by 2035. Making matters worse, Singapore has limited land for building new incineration plants or landfills.
