@@ -15,7 +15,7 @@ The government would like to motivate citizens by **sharing the total energy tha
 
 You have been provided with three datasets. The data come from different teams, so the names of waste types may differ.
 
-## Dataset description
+## Data description
 
 <img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
 
