@@ -20,23 +20,23 @@ You have been provided with three datasets. The data come from different teams, 
 <img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
 
 ### datasets/wastestats.csv - Recycling statistics per waste type for the period 2003 to 2017
-> - **waste_type**: The type of waste recycled.
-> - **waste_disposed_of_tonne**: The amount of waste that could not be recycled (in metric tonnes).
-> - **total_waste_recycle_tonne**: The amount of waste that could be recycled (in metric tonnes).
-> - **total_waste_generated**: The total amount of waste collected before recycling (in metric tonnes).
-> - **recycling_rate**: The amount of waste recycled per tonne of waste generated.
-> - **year**: The recycling year.
+> - **`waste_type`**: The type of waste recycled.
+> - **`waste_disposed_of_tonne`**: The amount of waste that could not be recycled (in metric tonnes).
+> - **`total_waste_recycle_tonne`**: The amount of waste that could be recycled (in metric tonnes).
+> - **`total_waste_generated`**: The total amount of waste collected before recycling (in metric tonnes).
+> - **`recycling_rate`**: The amount of waste recycled per tonne of waste generated.
+> - **`year`**: The recycling year.
 
 ### datasets/2018_2019_waste.csv - Recycling statistics per waste type for the period 2018 to 2019
-> - **Waste Type**: The type of waste recycled.
-> - **Total Generated**: The total amount of waste collected before recycling (in thousands of metric tonnes).
-> - **Total Recycled**: The amount of waste that could be recycled. (in thousands of metric tonnes).
-> - **Year**: The recycling year.
+> - **`Waste Type`**: The type of waste recycled.
+> - **`Total Generated`**: The total amount of waste collected before recycling (in thousands of metric tonnes).
+> - **`Total Recycled`**: The amount of waste that could be recycled. (in thousands of metric tonnes).
+> - **`Year`**: The recycling year.
 
 ### datasets/energy_saved.csv - Estimations of the amount of energy saved per waste type in kWh
-> - **material**: The type of waste recycled.
-> - **energy_saved**: An estimate of the energy saved (in kiloWatt hour) by recycling a metric tonne of waste.
-> - **crude_oil_saved**: An estimate of the number of barrels of oil saved by recycling a metric tonne of waste.
+> - **`material`**: The type of waste recycled.
+> - **`energy_saved`**: An estimate of the energy saved (in kiloWatt hour) by recycling a metric tonne of waste.
+> - **`crude_oil_saved`**: An estimate of the number of barrels of oil saved by recycling a metric tonne of waste.
 
 ## Goal
 
