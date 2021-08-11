@@ -15,6 +15,24 @@ The government would like to motivate citizens by **sharing the total energy tha
 
 You have been provided with three datasets. The data come from different teams, so the names of waste types may differ.
 
+## Goal
+
+The Singapore 🇸🇬 government has asked you to help them determine how much energy they have saved per year by recycling. You need to answer the following question:
+
+How much energy in kiloWatt hour (kWh) has Singapore saved per year by recycling glass, plastic, ferrous, and non-ferrous metals between 2015 and 2019?
+
+Save your answer as a DataFrame named annual_energy_savings with the an index labelled year. Your DataFrame should consist of one column, total_energy_saved, which contains the total amount of energy in kWh saved per year across the four materials described above. It should resemble the following table:
+
+year |	total_energy_saved
+| ------ | ----------- |
+2015 |	xxxx
+2016 |	xxxx
+2017 |	xxxx
+2018 |	xxxx
+2019 |	xxxx
+
+Note: Unlike the Guided and Unguided Projects that exist on our platform, if you get stuck in this task, you will not have access to any hints, nor will you be able to request a solution. Similarly, our testing process is focused on your answers and will not provide feedback to help you towards your solution. All steps required, including importing, exploration, cleaning, and analysis, will be up to you!
+
 ## Data description
 
 <img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
@@ -37,21 +55,3 @@ You have been provided with three datasets. The data come from different teams, 
 > - **`material`**: The type of waste recycled.
 > - **`energy_saved`**: An estimate of the energy saved (in kiloWatt hour) by recycling a metric tonne of waste.
 > - **`crude_oil_saved`**: An estimate of the number of barrels of oil saved by recycling a metric tonne of waste.
-
-## Goal
-
-The Singapore 🇸🇬 government has asked you to help them determine how much energy they have saved per year by recycling. You need to answer the following question:
-
-How much energy in kiloWatt hour (kWh) has Singapore saved per year by recycling glass, plastic, ferrous, and non-ferrous metals between 2015 and 2019?
-
-Save your answer as a DataFrame named annual_energy_savings with the an index labelled year. Your DataFrame should consist of one column, total_energy_saved, which contains the total amount of energy in kWh saved per year across the four materials described above. It should resemble the following table:
-
-year |	total_energy_saved
-| ------ | ----------- |
-2015 |	xxxx
-2016 |	xxxx
-2017 |	xxxx
-2018 |	xxxx
-2019 |	xxxx
-
-Note: Unlike the Guided and Unguided Projects that exist on our platform, if you get stuck in this task, you will not have access to any hints, nor will you be able to request a solution. Similarly, our testing process is focused on your answers and will not provide feedback to help you towards your solution. All steps required, including importing, exploration, cleaning, and analysis, will be up to you!
