@@ -4,7 +4,7 @@
 - **Data cleaning** and **wrangling** project done for Datacamp Python Certification (unguided)
 - **Goal**: find the amount of energy saved per year from recycling efforts done by the Singapore's government.
 - **Libraries used**: `Pandas`
-
+- **Link to notebook**: [`Click here`](https://github.com/gpozzi/python-analytics-projects/blob/main/energy_saved/energy_saved.ipynb)
 <img src="https://image.freepik.com/vector-gratis/especialista-planta-reciclaje-plastico-materia-prima-papelera-reciclaje-mecanico-reciclaje-plasticos-concepto-reutilizacion-materiales-desecho-ilustracion-aislada-bluevector-coral-rosado_335657-1397.jpg" width=300>
 
 ## Project description
