@@ -31,6 +31,18 @@ year |	total_energy_saved
 2018 |	xxxx
 2019 |	xxxx
 
+## Techniques applied
+- `Transposing`
+- `Index slicing`
+- `Dataframe masking`
+- `Normalization`
+- `Dataframe concatenation`
+- `Dataframe merging`
+- `Column dropping`
+- `Column renaming`
+- `String stripping`
+- `Dataframe grouping`
+
 ## Data description
 
 <img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
