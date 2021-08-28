@@ -34,14 +34,14 @@ year |	total_energy_saved
 ## Techniques applied
 - `Transposing`
 - `Index slicing`
-- `Dataframe masking`
+- `Masking`
 - `Normalization`
+- `String stripping`
+- `Group by`
 - `Dataframe concatenation`
 - `Dataframe merging`
 - `Column dropping`
-- `Column renaming`
-- `String stripping`
-- `Dataframe grouping`
+- `Column name renaming`
 
 ## Data description
 
