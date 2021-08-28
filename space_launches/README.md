@@ -4,6 +4,7 @@
 - **Data cleaning and wrangling** project done for Datacamp Python Certification (unguided)
 - **Goal**: Detect which countries able to launch rockets have the lowest average price per kilo that can launch rockets into Low Earth Orbit
 - **Libraries used**: `Pandas`, `Numpy`
+- **Link to notebook**: [`Click here`](https://github.com/gpozzi/python-analytics-projects/blob/main/space_launches/space_launches.ipynb)
 
 <img src="https://image.freepik.com/vector-gratis/liderazgo-promocion-laboral-proyecto-exitoso-lanzamiento-startups-desarrollo-lider-equipo-personaje-plano-ceo-mujer-dibujos-animados-sentada-cohete_335657-2623.jpg" width=300>
 
