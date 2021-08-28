@@ -25,6 +25,20 @@ The launch classes are defined as follows based on their payload in Kilograms:
 - 1,000 < **Medium** <= 10,000
 - 10,000 < **Heavy**
 
+## Goal
+
+Find the **country** with the best average price to launch rockets into **low earth orbit (LEO)** for each launch class. Keep in mind the constraints laid out by the European Space Agency. Your analysis will allow the funding department to approach companies in the countries that offer the best value for each rocket class.
+
+Save your answer as a single DataFrame and name it `launch_cost`. It should contain the **country with the lowest average price (in $/Kg) for each rocket class**.
+
+Your resulting DataFrame should resemble the following, including identical column names:
+
+Launch Class	| Average Price |	Country
+| ------ | ----------- | ----------- |
+Light |	xxxx |	xxxx
+Medium |	xxxx |	xxxx
+Heavy |	xxxx |	xxxx
+
 ## Data description
 
 ### datasets/SO-space.csv - Space launch data for private single owner companies
@@ -66,17 +80,3 @@ The launch classes are defined as follows based on their payload in Kilograms:
 > - **Country**: The country location for the company's launchpad.
 
 > - **HQ Location**: The main office location fot the company.
-
-## Goal
-
-Find the **country** with the best average price to launch rockets into **low earth orbit (LEO)** for each launch class. Keep in mind the constraints laid out by the European Space Agency. Your analysis will allow the funding department to approach companies in the countries that offer the best value for each rocket class.
-
-Save your answer as a single DataFrame and name it `launch_cost`. It should contain the **country with the lowest average price (in $/Kg) for each rocket class**.
-
-Your resulting DataFrame should resemble the following, including identical column names:
-
-Launch Class	| Average Price |	Country
-| ------ | ----------- | ----------- |
-Light |	xxxx |	xxxx
-Medium |	xxxx |	xxxx
-Heavy |	xxxx |	xxxx
