@@ -31,8 +31,6 @@ year |	total_energy_saved
 2018 |	xxxx
 2019 |	xxxx
 
-Note: Unlike the Guided and Unguided Projects that exist on our platform, if you get stuck in this task, you will not have access to any hints, nor will you be able to request a solution. Similarly, our testing process is focused on your answers and will not provide feedback to help you towards your solution. All steps required, including importing, exploration, cleaning, and analysis, will be up to you!
-
 ## Data description
 
 <img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
