@@ -27,9 +27,6 @@ The launch classes are defined as follows based on their payload in Kilograms:
 
 ## Data description
 
-<img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
-
-
 ### datasets/SO-space.csv - Space launch data for private single owner companies
 
 > - **Company ID**: The company ID.
