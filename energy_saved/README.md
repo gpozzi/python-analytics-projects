@@ -45,8 +45,6 @@ year |	total_energy_saved
 
 ## Data description
 
-<img src="https://image.freepik.com/vector-gratis/investigacion-datos-estadisticos-indicadores-desempeno-empresa-retorno-inversion-razon-porcentual-fluctuacion-indices-cambio-significativo_335657-2552.jpg" width=200>
-
 ### datasets/wastestats.csv - Recycling statistics per waste type for the period 2003 to 2017
 > - **`waste_type`**: The type of waste recycled.
 > - **`waste_disposed_of_tonne`**: The amount of waste that could not be recycled (in metric tonnes).
